@@ -55,4 +55,3 @@ Ansible was created by [Michael DeHaan](https://github.com/mpdehaan) (michael.de
 
 Ansible is sponsored by [Ansible, Inc](http://ansible.com)
 
-
